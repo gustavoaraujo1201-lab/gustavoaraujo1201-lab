@@ -8,6 +8,6 @@ Eu sou Gustavo Araujo, sou um programador Front End, atualmente estou aprendendo
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
  
 
-[![Gustavo Araujo](https://github-readme-stats.vercel.app/api?username=gustavoaraujo1201-lab)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoaraujo1201-lab&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujo1201-lab)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoaraujo1201-lab&theme=tokyonight)
