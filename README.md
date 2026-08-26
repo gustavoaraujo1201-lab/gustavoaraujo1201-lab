@@ -9,6 +9,6 @@ Eu sou Gustavo Araujo, sou um programador Front End, atualmente estou aprendendo
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript-logo" />
  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoaraujo1201-lab&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavoaraujo1201-lab&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoaraujo1201-lab&theme=tokyonight)
