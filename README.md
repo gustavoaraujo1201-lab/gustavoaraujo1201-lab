@@ -6,6 +6,7 @@ Eu sou Gustavo Araujo, sou um programador Front End, atualmente estou aprendendo
 
  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+ - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript-logo" />
  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoaraujo1201-lab&theme=tokyonight)
